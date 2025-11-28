@@ -1,5 +1,5 @@
 # Video_game-analysis
-##🎮 Video Game Industry Data Analysis
+## 🎮 Video Game Industry Data Analysis
 An end-to-end data analysis project combining Python (Jupyter Notebook), SQL, and Power BI to explore industry patterns, game performance, trends, and user engagement.
 
 📌 Project Overview
