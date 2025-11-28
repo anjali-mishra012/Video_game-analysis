@@ -1,5 +1,4 @@
-# Video_game-analysis
-## 🎮 Video Game Industry Data Analysis
+# 🎮 Video Game Industry Data Analysis
 An end-to-end data analysis project combining Python (Jupyter Notebook), SQL, and Power BI to explore industry patterns, game performance, trends, and user engagement.
 
 📌 Project Overview
@@ -7,7 +6,7 @@ This project analyzes two datasets — VGsales and Games Data — to understand 
 The goal is to provide insights into:
 How video games perform across different genres and platforms Which publishers perform the best Trends in game ratings, reviews, and user engagement Sales performance across regions Key patterns useful for decision-making
 
-###🎯 Objective of the Project
+### 🎯 Objective of the Project
 
 Clean and prepare both datasets for analysis.
 Load data into MySQL and run SQL queries for deeper exploration.
@@ -50,7 +49,7 @@ Publisher performance
 Rating and review trends
 User behavior metrics
 
-###🧠 SQL Analysis
+### 🧠 SQL Analysis
 
 Using MySQL, multiple analytical queries were performed, including:
 Highest selling genres & platforms
@@ -75,7 +74,7 @@ Team-wise game performance
 Genre popularity
 User engagement metrics (playing, backlog, wishlist)
 
-###💡 Insights & Recommendations
+### 💡 Insights & Recommendations
 Action games dominate global sales, followed by sports and shooter genres.
 Older platforms (PS2, DS, Wii) contributed heavily to historical sales.
 Publishers like Nintendo, Activision, EA consistently outperform others.
@@ -88,7 +87,7 @@ Developers should encourage user reviews early to build trust.
 New releases can target platforms with strong current engagement.
 Studios should analyze wishlist data to plan sequels or remasters.
 
-###🏁 Conclusion
+### 🏁 Conclusion
 
 This project provides a complete end-to-end data analytics workflow using Python, SQL, and Power BI.
 It uncovers important patterns in the video game industry — from sales to user engagement — helping businesses understand market dynamics and plan better strategies.
